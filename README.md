@@ -2,7 +2,7 @@
 - 👀 I’m interested in projects related to python 
 - 🌱 I’m currently learning various types of programming language
 - 💞️ I’m looking to collaborate on various projects
-- 📫 contact me at diveshadivarekar@gmail.com
+- 📫 contact me at diveshadivarekar09@gmail.com
 
 <!---
 diveshadivarekar/diveshadivarekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
