@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @diveshadivarekar
-- 👀 I’m interested in projects related to python 
-- 🌱 I’m currently learning various types of programming language
-- 💞️ I’m looking to collaborate on various projects
+- 👀 I’m interested in projects related to problem solving 
+- 🌱 I’m currently learning data structures and machine learning 
+- 💞️ I’m looking to collab on various projects
 - 📫 contact me at diveshadivarekar09@gmail.com
 
 <!---
