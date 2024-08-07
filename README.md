@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diveshadivarekar" alt="diveshadivarekar" /></a> </p>
 
-- 🔭 I’m currently working on **Task Assist**
+- 🔭 I’m currently working on **Video to Flipbook Convertor**
 
-- 👨‍💻 All of my projects are available at [https://diveshwebsite.000webhostapp.com](https://diveshwebsite.000webhostapp.com)
+- 👨‍💻 All of my projects are available at [https://diveshadivarekar.github.io/](https://diveshadivarekar.github.io/index.html)
 
-- 📝 I regularly write articles on [https://diveshwebsite.000webhostapp.com/blog.html](https://diveshwebsite.000webhostapp.com/blog.html)
+- 📝 I regularly write articles on [https://diveshadivarekar.github.io/blog.html](https://diveshadivarekar.github.io/blog.html)
 
 - 📫 How to reach me **diveshadivarekar09@gmail.com**
 
