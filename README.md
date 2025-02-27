@@ -1,9 +1,9 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Divesh Adivarekar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F71A94&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;AI+%7C+Cloud+%7C+DevOps+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F71A94&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;AI+%7C+Cloud+%7C+DevOps+Learner;Building+Innovative+Projects" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%"/>
 </p>
 
 ## 🚀 A Passionate Full Stack Developer from India
@@ -20,28 +20,40 @@
 
 ---
 
-## 🏆 About Me
-- 🎯 Currently working on **Video to Flipbook Converter**
-- 🌱 Exploring **AI, Cloud Computing, and DevOps**
-- 💡 Love contributing to Open Source & building innovative projects  
-- 📝 Regularly write articles on [My Blog](https://diveshadivarekar.github.io/blog.html)  
-- 👨‍💻 Checkout my portfolio: [Portfolio Website](https://diveshadivarekar.github.io/)  
-- 📧 Reach me at **diveshadivarekar09@gmail.com**  
+## 🛠️ Languages & Tools  
 
----
-
-## 🔗 Connect with Me  
+### 🚀 Programming Languages
 <p align="center">
-  <a href="https://www.linkedin.com/in/divesh-adivarekar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/diveshadivarekar" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/diveshadivarekar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,ruby,go,swift,php,kotlin,rust,dart,r" alt="Languages" />
 </p>
+
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,angular,react,vue,bootstrap,tailwind,sass,flutter" alt="Frontend" />
+</p>
+
+### ☁️ Backend Development & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express,nestjs,fastapi,graphql" alt="Backend & APIs" />
+</p>
+
+### ☁️ Cloud & Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,vercel,netlify" alt="Cloud & Deployment" />
+</p>
+
+### 🛢️ Databases & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase,docker,kubernetes,terraform,git,github,gitlab,bash,powershell" alt="Databases & DevOps" />
+</p>
+
+### 🔎 Testing & API Documentation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,postman" alt="Testing Tools" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="50" height="50" alt="Swagger" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="50" height="50" alt="Pytest" />
+</p>
+
 
 ---
 
@@ -59,21 +71,8 @@
 </p>
 
 <p align="center">
-
-![Divesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diveshadivarekar&theme=rogue)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diveshadivarekar&theme=rogue" alt="Activity Graph" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/diveshadivarekar/diveshadivarekar/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
-
----
-
-## 📅 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [How to Build Scalable Web Apps](https://diveshadivarekar.github.io/blog.html)
-- 🔥 [Mastering DevOps for Startups](https://diveshadivarekar.github.io/blog.html)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
