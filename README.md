@@ -1,12 +1,18 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Divesh Adivarekar
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Divesh Adivarekar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F71A94&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;AI+%7C+Cloud+%7C+DevOps+Learner;Building+Innovative+Projects" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F71A94&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Data+Science+Student;Open+Source+Enthusiast;AI+%7C+Cloud+%7C+DevOps+Learner;Building+Innovative+Projects" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%"/>
 </p>
 
-## 🚀 A Passionate Full Stack Developer from India
+## 🚀 A Passionate Full Stack Developer from Pune, India
+
+- 🎓 B.E. in **Artificial Intelligence & Data Science** at PVG's College of Engineering and Technology, Pune (2024 – 2027)
+- 🤖 AI & software development intern at **Achieverr AI**
+- 🌱 Currently exploring AI agents, cloud and DevOps
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=diveshadivarekar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -20,7 +26,7 @@
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🛠️ Languages & Tools
 
 ### 🚀 Programming Languages
 <p align="center">
@@ -32,14 +38,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,angular,react,vue,bootstrap,tailwind,sass,flutter" alt="Frontend" />
 </p>
 
-### ☁️ Backend Development & APIs
+### ⚙️ Backend Development & APIs
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express,nestjs,fastapi,graphql" alt="Backend & APIs" />
 </p>
 
 ### ☁️ Cloud & Deployment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,vercel,netlify" alt="Cloud & Deployment" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify" alt="Cloud & Deployment" />
 </p>
 
 ### 🛢️ Databases & DevOps
@@ -54,39 +60,39 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="50" height="50" alt="Pytest" />
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=diveshadivarekar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=diveshadivarekar&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=diveshadivarekar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diveshadivarekar&theme=rogue&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diveshadivarekar&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
+## 💡 Quote
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diveshadivarekar&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diveshadivarekar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diveshadivarekar&theme=rogue" alt="Activity Graph" />
-</p>
+> **"The best way to predict the future is to create it!"**
 
 ---
 
-## 🎯 Fun Fact  
-💡 **"The best way to predict the future is to create it!"**  
-
----
-
-### 🚀 Show Some Love
+### ⭐ Show Some Love
 If you like my work, consider giving me a ⭐ on my [GitHub](https://github.com/diveshadivarekar) profile! 😃
 
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/made-with-python.svg" />
-  <img src="https://forthebadge.com/images/badges/open-source.svg" />
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
+  <img src="https://forthebadge.com/images/badges/made-with-python.svg" alt="Made with Python" />
+  <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open source" />
 </p>
-
