@@ -74,8 +74,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diveshadivarekar&theme=rogue&hide_border=true" alt="Activity Graph" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" width="100%" />
 </p>
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diveshadivarekar&theme=rogue&hide_border=true" alt="Activity Graph" />
+</p> -->
 
 ---
 
