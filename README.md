@@ -65,15 +65,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=diveshadivarekar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="170" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=diveshadivarekar&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=diveshadivarekar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
