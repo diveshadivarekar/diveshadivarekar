@@ -1,4 +1,3 @@
-
 name: Update README cards
 
 on:
@@ -6,58 +5,33 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: update-readme-cards
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
+      - uses: actions/checkout@v6
 
-      - name: Generate GitHub stats
+      - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: >-
-            username=${{ github.repository_owner }}
-            &show_icons=true
-            &theme=radical
-            &hide_border=true
-            # &include_all_commits=true
-            &hide_title=false
-            &hide_rank=false
-            &layout=normal
-            &locale=en
+          options: username=${{ github.repository_owner }}&show_icons=true
           path: profile/stats.svg
-          token: ${{ secrets.STATS_TOKEN }}
-          core_version: 2.1.3
-          fail_on_error: true
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: >-
-            username=${{ github.repository_owner }}
-            &theme=radical
-            &layout=compact
-            &langs_count=8
-            &hide_border=true
-            &locale=en
-          path: profile/top-langs.svg
-          token: ${{ secrets.STATS_TOKEN }}
-          core_version: 2.1.3
-          fail_on_error: true
-
-      - name: Commit updated cards
+      - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update GitHub stats cards" || exit 0
+          git diff --staged --quiet && exit 0
+          git commit -m "Update README cards"
           for i in 1 2 3; do
             git pull --rebase origin main && git push && exit 0
             sleep 5
