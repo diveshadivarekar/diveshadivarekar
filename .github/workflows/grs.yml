@@ -26,7 +26,7 @@ jobs:
             &show_icons=true
             &theme=radical
             &hide_border=true
-            &include_all_commits=true
+            # &include_all_commits=true
             &hide_title=false
             &hide_rank=false
             &layout=normal
